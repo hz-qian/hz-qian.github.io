@@ -207,14 +207,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
+      layout: 
       author_profile: true
   # _Research
   - scope:
       path: ""
       type: Research
     values:
-      layout: default
+      layout: 
       author_profile: true
       share: true
       comments: true
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: cv
     values:
-      layout: default
+      layout: 
       author_profile: true
       share: true
       comment: true
