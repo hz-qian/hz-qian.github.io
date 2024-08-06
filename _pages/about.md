@@ -11,4 +11,4 @@ My research interests include marriage and family, gender inequality, social str
 * How has the strict one-child policy shaped Chinese people’s gender perceptions and parenting styles?
 * As the Chinese government begin to abandon birth control strategies and encourage giving more birth, what kind of sacrifices will individuals have to make during this reversal? How do the impacts vary among people in different socioeconomic statuses?
   
-Feel free to reach me at  [haozhiqian23@gmail.com](mailto:haozhiqian23@gmail.com) with any questions about my research!
+Feel free to reach me at  [haozhiqian23@gmail.com](mailto:haozhiqian23@gmail.com) / [hqianae@connect.ust.hk](mailto:hqianae@connect.ust.hk) with any questions about my research!
