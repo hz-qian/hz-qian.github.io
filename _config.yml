@@ -21,7 +21,7 @@ repository               : "hz-qian/hz-qian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hqian.png"
   name             : "Your Sidebar Name"
   pronouns         : # "she/her"  
   bio              : "MPhil student"
