@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my Curriculum Vitae [here](HQian_cv_jul24.pdf).
+You can find my Curriculum Vitae [here](pages/HQian_cv_jul24.pdf).
