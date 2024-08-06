@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "MPhil student"
   location         : "Hong Kong SAR"
   uri              : # URL
-  email            : "haozhiqian23@gmail.come" 
+  email            : "haozhiqian23@gmail.com"
 
   # Academic websites
 
@@ -35,12 +35,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
