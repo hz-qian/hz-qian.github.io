@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Haozhi Qian"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haozhi Qian"
 description              : &description "personal description"
 url                      : "https://hz-qian.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,8 +22,8 @@ repository               : "hz-qian/hz-qian.github.io"
 author:
   # Biographic information
   avatar           : "hqian.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # "she/her"  
+  name             : "Haozhi QIAN"
+  pronouns         : "she/her"  
   bio              : "MPhil student"
   location         : "Hong Kong SAR"
   uri              : # URL
