@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haozhi Qian's Homepage"
+title                    : "Haozhi Qian"
 title_separator          : "-"
 name                     : &name "Haozhi Qian"
 description              : &description "personal description"
