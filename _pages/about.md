@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, Welcome to my website! I am an incoming MPhil student in the  [Division of Social Science](https://sosc.hkust.edu.hk/)  at the  [Hong Kong University of Science and Technology](https://hkust.edu.hk/) . I received my Bachelor’s degree in  [Sociology](https://www.soc.tsinghua.edu.cn/)  from  [Tsinghua University](https://www.tsinghua.edu.cn/)  in June 2023.
-My research interests include marriage and family, gender inequality, social stratification, and quantitative methods. Currently, I am focused on the impact of China’s population policies on individual’s everyday life. My research is driven by the following two issues:
-* How has the strict one-child policy shaped Chinese people’s gender perceptions and parenting styles?
-* As the Chinese government begin to abandon birth control strategies and encourage giving more birth, what kind of sacrifices will individuals have to make during this reversal? How do the impacts vary among people in different socioeconomic statuses?
-  
-Feel free to reach me at  [haozhiqian23@gmail.com](mailto:haozhiqian23@gmail.com) / [hqianae@connect.ust.hk](mailto:hqianae@connect.ust.hk) with any questions about my research!
+Hi, Welcome to my website! I am an MPhil student in the  [Division of Social Science](https://sosc.hkust.edu.hk/)  at the  [Hong Kong University of Science and Technology](https://hkust.edu.hk/) . I received my Bachelor’s degree in  [Sociology](https://www.soc.tsinghua.edu.cn/)  from  [Tsinghua University](https://www.tsinghua.edu.cn/)  in June 2023.
+My research interests include social stratification and mobility, marriage and family,and quantitative methods. Currently, I particularly interested in:
+* During times of significant social change, how does the family engage in the transformation?"
+* How do individuals achieve mobility through marriage during the process of social change?
+
+Feel free to reach me at [haozhi.qian@connect.ust.hk](mailto:haozhi.qian@connect.ust.hk) with any questions regarding my research!
